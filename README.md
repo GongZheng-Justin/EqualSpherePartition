@@ -1,5 +1,6 @@
 # EqualSpherePartition
 &emsp;**ACM_EqualSphere** provide a much cut down module to performing partition of the surface of a sphere into regions of equal area.
+
 ![](EqualSphere.jpg)
  
 ## References:
