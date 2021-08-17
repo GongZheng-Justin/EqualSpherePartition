@@ -9,5 +9,5 @@
 3. https://sourceforge.net/projects/eqsp/
  
  ## Contact and Feedback :email:
-  Author: Zheng Gong
+  Author: Zheng Gong  
   E-Mail: gongzheng_justin@outlook.com
