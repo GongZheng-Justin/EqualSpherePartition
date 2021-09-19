@@ -1,7 +1,7 @@
 !********************************************************************
 ! 
 !  Purpose::
-!    1) Provide a much cut down module to performing partition of the   
+!    1) Provide a much cut down module to perform partition of the   
 !       surface of a sphere into regions of equal area.
 ! 
 !  References:
