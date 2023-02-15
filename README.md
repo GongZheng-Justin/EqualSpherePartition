@@ -1,5 +1,5 @@
 # EqualSpherePartition
-&emsp;**ACM_EqualSphere.f90** provides a much cut down module to performing partition of the surface of a sphere into regions of equal area.
+&emsp;**ACM_EqualSphere.f90** provides a much cut-down module to performing partition of the surface of a sphere into regions of equal area.
 
 ![](EqualSphere.jpg)
  
